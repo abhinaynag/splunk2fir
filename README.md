@@ -1,2 +1,3 @@
 # splunk2fir
-repo for  taking splunk results for logging into FIR ticketing system
+code to export splunk results into FIR ticketing system
+As with all my code, it's designed for certain design assumptions which I am not going to publish due to certain obligations.
